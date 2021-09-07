@@ -1,0 +1,10 @@
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\bin\Debug\MediaIntegrator_Lab5.exe.config
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\bin\Debug\MediaIntegrator_Lab5.exe
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\bin\Debug\MediaIntegrator_Lab5.pdb
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\obj\Debug\MediaIntegrator_Lab5.csprojAssemblyReference.cache
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\obj\Debug\MediaIntegrator_Lab5.Media_Integrator_Main.resources
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\obj\Debug\MediaIntegrator_Lab5.Properties.Resources.resources
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\obj\Debug\MediaIntegrator_Lab5.csproj.GenerateResource.cache
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\obj\Debug\MediaIntegrator_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\obj\Debug\MediaIntegrator_Lab5.exe
+C:\Users\ngard\source\repos\MediaIntegrator_Lab5\obj\Debug\MediaIntegrator_Lab5.pdb

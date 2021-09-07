@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Item>
+    <Name>Commentarii de Bello Gallico et Civili</Name>
+    <Count>5</Count>
+    <Price>449</Price>
+    <Comment>From My_store</Comment>
+    <Artist>Gaius Julius Caesar</Artist>
+    <Publisher></Publisher>
+    <Genre>Historia</Genre>
+    <Year>2020</Year>
+    <ProductID>0</ProductID>
+  </Item>
+  <Item>
+    <Name>How to Read a Book</Name>
+    <Count>9</Count>
+    <Price>149</Price>
+    <Comment>From My_store</Comment>
+    <Artist>Mortimer J. Adler</Artist>
+    <Publisher></Publisher>
+    <Genre>Kursliteratur</Genre>
+    <Year>2020</Year>
+    <ProductID>1</ProductID>
+  </Item>
+  <Item>
+    <Name>Moby Dick</Name>
+    <Count>10</Count>
+    <Price>49</Price>
+    <Comment>From My_store</Comment>
+    <Artist>Herman Melville</Artist>
+    <Publisher></Publisher>
+    <Genre>Äventyr</Genre>
+    <Year>2020</Year>
+    <ProductID>2</ProductID>
+  </Item>
+  <Item>
+    <Name>Great Gatsby</Name>
+    <Count>10</Count>
+    <Price>79</Price>
+    <Comment>From My_store</Comment>
+    <Artist>F. Scott Fitzgerald</Artist>
+    <Publisher></Publisher>
+    <Genre>Noir</Genre>
+    <Year>2020</Year>
+    <ProductID>3</ProductID>
+  </Item>
+  <Item>
+    <Name>House of Leaves</Name>
+    <Count>9</Count>
+    <Price>49</Price>
+    <Comment>From My_store</Comment>
+    <Artist>Mark Z. Danielewski</Artist>
+    <Publisher></Publisher>
+    <Genre>Skräck</Genre>
+    <Year>2020</Year>
+    <ProductID>4</ProductID>
+  </Item>
+  <Item>
+    <Name>Persona 5 Royal</Name>
+    <Count>10</Count>
+    <Price>599</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>5</ProductID>
+  </Item>
+  <Item>
+    <Name>Microsoft Flight Simulator</Name>
+    <Count>10</Count>
+    <Price>499</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>6</ProductID>
+  </Item>
+  <Item>
+    <Name>Katana Zero</Name>
+    <Count>10</Count>
+    <Price>199</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>7</ProductID>
+  </Item>
+  <Item>
+    <Name>Duke Nukem 3D</Name>
+    <Count>10</Count>
+    <Price>99</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>8</ProductID>
+  </Item>
+  <Item>
+    <Name>Nyckeln till frihet</Name>
+    <Count>10</Count>
+    <Price>99</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>9</ProductID>
+  </Item>
+  <Item>
+    <Name>Gudfadern</Name>
+    <Count>10</Count>
+    <Price>99</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>10</ProductID>
+  </Item>
+  <Item>
+    <Name>Sagan om ringen: konungens Återkomst</Name>
+    <Count>10</Count>
+    <Price>149</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>11</ProductID>
+  </Item>
+  <Item>
+    <Name>Pulp fiction</Name>
+    <Count>2</Count>
+    <Price>99</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>12</ProductID>
+  </Item>
+  <Item>
+    <Name>Schindlers list</Name>
+    <Count>10</Count>
+    <Price>149</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>13</ProductID>
+  </Item>
+  <Item>
+    <Name>Test bok 1</Name>
+    <Count>4</Count>
+    <Price>11</Price>
+    <Comment>From My_store</Comment>
+    <Artist>Test Author 1</Artist>
+    <Publisher></Publisher>
+    <Genre>sci-fi</Genre>
+    <Year>2020</Year>
+    <ProductID>14</ProductID>
+  </Item>
+  <Item>
+    <Name>Test DVD 2</Name>
+    <Count>2</Count>
+    <Price>45</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>15</ProductID>
+  </Item>
+  <Item>
+    <Name>Test spel 4</Name>
+    <Count>68</Count>
+    <Price>45</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>16</ProductID>
+  </Item>
+  <Item>
+    <Name>Test Spel 8</Name>
+    <Count>18</Count>
+    <Price>44</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>17</ProductID>
+  </Item>
+  <Item>
+    <Name>Test DVD 12</Name>
+    <Count>79</Count>
+    <Price>34</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>18</ProductID>
+  </Item>
+  <Item>
+    <Name>Test Spel 90</Name>
+    <Count>69</Count>
+    <Price>45</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>19</ProductID>
+  </Item>
+</Inventory>
